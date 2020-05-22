@@ -1,0 +1,20 @@
+  table,
+  tr,
+  th,
+  td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+  }
+
+  body {
+    background-color: #abf0e9;
+  }
+
+  hr {
+    border-style: dotted none none;
+    height: 0px;
+    border-color: grey;
+    border-width: 7px;
+    width: 4%;
+  }
